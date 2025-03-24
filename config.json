@@ -1,0 +1,7 @@
+{
+    "data_path": "attrition_data.csv",
+    "alpha": 0.05,
+    "train_ratio": 0.8,
+    "val_ratio": 0.1,
+    "test_ratio": 0.1
+}
